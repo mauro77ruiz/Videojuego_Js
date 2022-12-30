@@ -1,2 +1,2 @@
-# Videojuego_Js
-Desarrollo de mi primer videojuego 2d con JavaScript.
+# videojuego_JavaScript
+Creacioón de mi primer videojuego con JavaScript
